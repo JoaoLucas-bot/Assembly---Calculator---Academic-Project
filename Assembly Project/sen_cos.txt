@@ -1,0 +1,1 @@
+1- Para calcular o seno ou cosseno de um angulo, o utilizador deve introduzir o numero e carregar no "Enter"

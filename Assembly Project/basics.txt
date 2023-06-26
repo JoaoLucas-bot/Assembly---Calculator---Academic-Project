@@ -1,0 +1,2 @@
+1- O utilizador deve indicar a operacao que deseja realizar
+2- Apos indicar a operacao desejada, o utilizador deve introduzir o primeiro numero e carregar no "Enter" para introduzir o segundo numero e carregar no Enter para obter o resultado da operacao.

@@ -1,0 +1,6 @@
+Binario/Decimal:Introduza um numero em binario e converte o numero para decimal(Apos introduzir o numero o utilizador deve carregar no Enter)
+Decimal/Binario:Introduza um numero em decimal e converte o numero para binario(Apos introduzir o numero o utilizador deve carregar no Enter)
+Decimal/Hexadecimal:Introduza um numero em decimal e converte o numero para Hexadecimal(Apos introduzir o numero o utilizador deve carregar no Enter)
+Hexadecimal/Decimal:Introduza um numero em Hexadecimal e converte o numero para decimal(Apos introduzir o numero o utilizador deve carregar no Enter)
+Binario/Hexadecimal:Introduza um numero em binario e converte o numero para Hexadecimal(Apos introduzir o numero o utilizador deve carregar no Enter)
+Hexadecimal/Binario:Introduza um numero em Hexadecimal e converte o numero para Binario(Apos introduzir o numero o utilizador deve carregar no Enter)
