@@ -1,0 +1,1 @@
+1-Para calcular o logaritmo de um numero,o utilizador deve introduzir um numero e carregar "Enter", e o resultado do logaritmo do numero sera apresentado simultaneamente em log de base 2 e base 10.
