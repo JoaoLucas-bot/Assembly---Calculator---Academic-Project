@@ -1,2 +1,0 @@
-1- Para calcular a potencia de um numero o utilizador deve introduzir primeiro a base(carregar no "Enter") e depois introduzir o expoente.
-2-Para calcular a Raiz de um numero o utilizador deve introduzir o numero e carregar no "Enter".
