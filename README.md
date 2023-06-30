@@ -1,6 +1,8 @@
 # Assembly-Project
 MIPS Assembly Project : Scientific calculator
+
 Each phase should be presented as a separate program with a header.
+
 Phase 1 : When the program is run, it allows basic operations plus conversions
 between decimal, binary and hexadecimal bases.
 
