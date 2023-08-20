@@ -1,4 +1,4 @@
-# Assembly-Project
+# Assembly - Calculator - Academic Project
 MIPS Assembly Project : Scientific calculator
 
 Each phase should be presented as a separate program with a header.
